@@ -1,0 +1,10 @@
+1) ¿Qué se define como memoria estática?
+    Es la que no se puede modificar en ejecucion
+2) ¿Qué se define como memoria dinámica?
+    Es la que se puede modificar en ejecucion
+3) ¿Qué es una variable de tipo puntero?
+    Es una variable que apunta hacia una direccion de memoria 
+4) ¿Qué hace la operación “NEW” aplicada en una variable del tipo puntero?
+    Pide un nuevo espacio de memoria
+5) ¿Qué hace la operación “DISPOSE” aplicada en una variable del tipo puntero?
+    Vaciar lo que tiene la variable 
